@@ -60,7 +60,7 @@ export const FOOTER_LINKS = [
   {
     title: 'Learn More',
     links: [
-      'About Hilink',
+      'About Travelgraph',
       'Press Releases',
       'Environment',
       'Jobs',
